@@ -6,7 +6,7 @@ export function App() {
     <div>
       <Mensagem Message={"Esse é o primeiro exercicio do Tony!!"}/>
       <Saudacao />
-      <Saudacao nome="Luiza Barreto" idade={17} />
+      <Saudacao nome="Luiza Silveira" idade={17} />
       <Saudacao nome="Leone Silveira" idade={27} />
 
     </div>
